@@ -1,5 +1,5 @@
 # OSTINT
-List of all Open Source Intelligence tools in single place 
+List of all Open Source Intelligence tools in single place. 
 This is just a start-up Git, it will improve with the time and space given to the author ;)
 
 <b>Maltego</b>	
